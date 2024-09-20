@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eider Prieto</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **REACT**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PHP**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, PHP, NODE, REACT**
 
 - 📫 How to reach me **prietoeider1@gmail.com**
 
